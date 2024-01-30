@@ -125,7 +125,7 @@ Test ok from first account (API Gateway account)
 
 ### Lambda Version and Alias for API Traffic Splitting for Blue Green deployment
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1ea735bc-9899-476a-8a29-bab307e2e2c9)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9021ec42-b7e2-42db-b96d-ebf2e240f340)
 
 
 Create a new lambda function versionTest
@@ -173,6 +173,9 @@ Testing Alias trafic shifting version 1 and version 4
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/40d6796d-e566-43fd-8050-c020e317ac35)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9e0fb25d-61a0-457c-b80a-ad41cca536a1)
+
+###  API Traffic Splitting using Lambda Version and Alias for for Blue Green deployment
+
 
 
 
