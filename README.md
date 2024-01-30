@@ -202,9 +202,24 @@ Add stage variables and save
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/cd516a74-0eb2-49a8-8182-f1b3deabdf83)
 
-For Prod, we can deploy API in Prod, create stage variables and point lambdaAlias to prodAlias
+For Prod, we can deploy API in Prod, create stage variables and point lambdaAlias to prodAlias (we can send the trafic to different version of lambda)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/eadebc1f-1832-40e3-bdb6-5d5d4eadc4f1)
+
+Testing API same behaviour as lambdaAlias
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1a7f11de-8e24-4f86-b47e-1d9890f153ed)
+
+Copy url and paste in the browser
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/153fbb18-1bf9-4faa-b0e9-781c53cf58d6)h
+
+Refresh
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5769553-6527-48ea-90ad-4315daed1c36)
+
+
+
 
 
 
