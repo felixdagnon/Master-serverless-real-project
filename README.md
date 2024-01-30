@@ -61,7 +61,8 @@ Vhere we can send input parameter in the get methode for example region
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7ba55def-dfde-46ec-9fa0-7d229261addf)
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2684333c-b3db-4862-a4ac-6729c6851cc8)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/dddb26de-b3a2-4754-8720-82460f5397df)
+
 
 
 
