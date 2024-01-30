@@ -39,6 +39,13 @@ Master Serverless real project
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a80f9536-b38d-402a-a16b-2d65b8fec189)
 
+### Create POST APi with new lamba function
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a291c6c7-8afd-4819-b79e-aed8d3427ab8)
+
+
+
+
 
 
 
