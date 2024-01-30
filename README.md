@@ -150,6 +150,24 @@ Testing version 1
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/018c811a-363c-4461-898d-7cf32554b4a2)
 
+Publish New Version (version 2)  from versionTest
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/85400c29-2de7-421a-a9eb-ac03bab05c12)
+
+Publish New Version (version 3)  from versionTest
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/33f624ea-ec15-497e-9bde-a5ef2ddcb9e3)
+
+Publish New Version (version 4)  from versionTest
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9064fb71-2a0b-48e1-8bbb-061fe2e65347)
+
+
+
+
+
+
+
 
 
 
