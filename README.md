@@ -73,6 +73,14 @@ Create new API  GreatfromCountry (example) and new methode GET
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a4ee3d18-028a-4dc7-9ac2-be78718107fe)
 
+### Invoking the GET APi query parameters from POSTMAN
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/19c458f7-a7a5-47c6-b1b2-ed4fd3932c77)
+
+For example add '?nameofcountry=England' at the end of url and test ok
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2d0fec75-cfd5-4cb4-bbcf-0a7402f7d70c)
+
 
 
 
