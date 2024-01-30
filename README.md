@@ -192,7 +192,7 @@ After change, paste the permission in Cloud9 IDE and enter
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5c8dd272-74c4-45d0-b34f-e33cbad01810)
 
-Deply API in Dev
+Deploy API in Dev
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/da41e3ce-2d05-48ff-a8c6-376ccda78f82)
 
@@ -201,6 +201,10 @@ Add stage variables and save
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/296e9c7b-1fc5-490e-be6f-c9ee554f07da)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/cd516a74-0eb2-49a8-8182-f1b3deabdf83)
+
+For Prod, we can deploy API in Prod, create stage variables and point lambdaAlias to prodAlias
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/eadebc1f-1832-40e3-bdb6-5d5d4eadc4f1)
 
 
 
