@@ -184,6 +184,28 @@ Replace in the GET methode lambda function with versionTest:${stageVariables.lam
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5008dd2c-dc79-4217-ac2f-0ef3525430b7)
 
+In the permission: replace ${stageVariables.lambdaAlias} with the name of Alias (oldestNewest) in notepad
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f6741b9a-8019-44a1-a11e-8c9957713dda)
+
+After change, paste the permission in Cloud9 IDE and enter
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5c8dd272-74c4-45d0-b34f-e33cbad01810)
+
+Deply API in Dev
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/da41e3ce-2d05-48ff-a8c6-376ccda78f82)
+
+Add stage variables and save
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/296e9c7b-1fc5-490e-be6f-c9ee554f07da)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/cd516a74-0eb2-49a8-8182-f1b3deabdf83)
+
+
+
+
+
 
 
 
