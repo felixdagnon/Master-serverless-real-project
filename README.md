@@ -86,6 +86,26 @@ For example add '?nameofcountry=England' at the end of url and test ok
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2d0fec75-cfd5-4cb4-bbcf-0a7402f7d70c)
 
 
+### Demo AWs cross account in the API Gateway
+
+Lambda from second account
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/be49d2c1-6e4d-4f97-9051-07cd5104b67a)
+
+API Gateway in the first account
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e9f581ae-ea70-4455-883e-7db5dee75544)
+
+API Gateway should call lambda from second account and return 'hello word'
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fd0da4cd-2772-41dc-910b-0f3314c8c135)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8e6ad15a-52ca-4206-a032-c340d6f656ec)
+
+
+
+
+
 
 
 
