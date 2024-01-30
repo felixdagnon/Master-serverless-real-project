@@ -11,7 +11,7 @@ Master Serverless real project
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e2ab0230-f6f2-4121-a49b-1834a159fddd)
 
-### Creating Lambda function as back end
+### Creating simple Lambda function as back end
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a095c234-14aa-4563-85fa-18faaf0c2aa7)
 
@@ -31,7 +31,7 @@ Master Serverless real project
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b9029269-bfc6-44eb-a301-aa2d719237bd)
 
-### Simple test Lambda
+### Invoking the APi from internet
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a80f9536-b38d-402a-a16b-2d65b8fec189)
 
