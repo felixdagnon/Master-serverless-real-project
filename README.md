@@ -98,9 +98,30 @@ API Gateway in the first account
 
 API Gateway should call lambda from second account and return 'hello word'
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fd0da4cd-2772-41dc-910b-0f3314c8c135)
-
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8e6ad15a-52ca-4206-a032-c340d6f656ec)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/95c0626e-52c4-4ffc-98e4-71f6973ecf82)
+
+From the second acount copy the full arn of lambda
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b5bd3e2e-c6a2-4817-893b-d6708f237263)
+
+And paste it in the path of lambda function in the first account
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ceacce45-1957-4ba0-8345-4207034a2308)
+
+and check mark
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8239a361-e065-4bfa-a31f-3853a7ec1720)
+
+
+
+
+
+
+
+
+
 
 
 
