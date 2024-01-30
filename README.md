@@ -176,6 +176,17 @@ Testing Alias trafic shifting version 1 and version 4
 
 ###  API Traffic Splitting using Lambda Version and Alias for for Blue Green deployment
 
+Create API aliasTest resource and GET methode
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a2b64d01-b17c-4464-b3c5-23e162823abf)
+
+Replace in the GET methode lambda function with versionTest:${stageVariables.lambdaAlias} in integration request
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5008dd2c-dc79-4217-ac2f-0ef3525430b7)
+
+
+
+
 
 
 
