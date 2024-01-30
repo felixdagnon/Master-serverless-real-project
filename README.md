@@ -128,6 +128,16 @@ Test ok from first account (API Gateway account)
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1ea735bc-9899-476a-8a29-bab307e2e2c9)
 
 
+Create a new lambda function versionTest
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f7629b28-bd22-458f-a048-7396b21d7568)
+
+Publish a new version
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/24a1807c-ec52-4345-baa8-a813d1851a6c)
+
+
+
 
 
 
