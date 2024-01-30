@@ -114,6 +114,19 @@ And check mark
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8239a361-e065-4bfa-a31f-3853a7ec1720)
 
+Copy those permissions  and attech to lambda in the second account by using Cloud9 IDE with AWS CLI
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e56f1cf9-b256-465e-8adf-0fe1cb2cb004)
+
+Test ok from first account (API Gateway account)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5f49e9cd-df8b-4a75-98ca-e3f0f07c16f1)
+
+
+
+
+
+
 
 
 
