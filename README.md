@@ -110,7 +110,7 @@ And paste it in the path of lambda function in the first account
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ceacce45-1957-4ba0-8345-4207034a2308)
 
-and check mark
+And check mark
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8239a361-e065-4bfa-a31f-3853a7ec1720)
 
