@@ -123,7 +123,7 @@ Test ok from first account (API Gateway account)
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5f49e9cd-df8b-4a75-98ca-e3f0f07c16f1)
 
 
-### Lambda Version and Alias for API Traffic Splitting
+### Lambda Version and Alias for API Traffic Splitting for Blue Green deployment
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1ea735bc-9899-476a-8a29-bab307e2e2c9)
 
