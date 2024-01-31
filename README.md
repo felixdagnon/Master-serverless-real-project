@@ -226,6 +226,13 @@ If ok
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/90e72a58-34f5-4f9c-8690-d612cd6eb42d)
 
+Demo: create two lambda functions call canaryLambdaBase and canaryLambdaModified
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5ab056b5-d763-4b43-ac6b-e15cb41ff267)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/191d3ccd-ff2a-40bb-9b3a-21a04fd5dd9c)
+
+
 
 
 
