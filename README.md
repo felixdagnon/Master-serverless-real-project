@@ -273,6 +273,41 @@ If canary test ok, we PROMOTE the canary
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/de448c94-c67c-4538-85b9-1cea6fb75d3f)
 
 
+###  API Endpoint
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/4d86c1b4-5112-429e-9818-1e506802dfa4)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f8729357-485b-4997-99d8-8d275d45792b)
+
+###  API caching
+
+To enable API caching
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/4ab9d2c9-09fb-4961-a960-90248269f077)
+
+Modified te capacity and TTL for the cache
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e9e91e26-a080-4894-9b00-65480d7f9c16)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ed06d5ed-fedd-45f2-8c93-8719c4779c9e)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/252ea745-a115-4cb1-b82f-a925bfd412c1)
+
+Ennable cache setting and modified parameters (capacity and TTL for the cache...)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8da4abc8-390e-4a88-8090-c01f8bc18c5d)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
