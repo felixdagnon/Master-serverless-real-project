@@ -232,6 +232,36 @@ Demo: create two lambda functions call canaryLambdaBase and canaryLambdaModified
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/191d3ccd-ff2a-40bb-9b3a-21a04fd5dd9c)
 
+Create canary API calls canaryTest using canaryLambdaBase function and GET methode
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/6ffb2b0f-19d4-42cc-aebf-f4208e7c2d08)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/03bb61c2-550e-4671-a50f-9e75b618e6a8)
+
+Using canary tb to point to the new lambda function (canaryLambdaModified) and create canary
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/17c021f3-e740-4b7f-b31c-43fd3fe39957)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fb5500f2-34c7-4fd7-98ef-c3b289157d09)
+
+In Ressource change canaryLmbdabase to canaryLambdaModified
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9575c936-2faf-4fc9-8cd1-f52f8f7ddb9a)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2fc81d1e-4197-43e2-9fa2-c4dd4e9a1389)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
