@@ -287,8 +287,6 @@ To enable API caching
 
 Modified te capacity and TTL for the cache
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e9e91e26-a080-4894-9b00-65480d7f9c16)
-
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ed06d5ed-fedd-45f2-8c93-8719c4779c9e)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/252ea745-a115-4cb1-b82f-a925bfd412c1)
