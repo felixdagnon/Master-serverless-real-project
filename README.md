@@ -250,6 +250,8 @@ In Ressource change canaryLmbdabase to canaryLambdaModified
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2fc81d1e-4197-43e2-9fa2-c4dd4e9a1389)
 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1313fca5-5514-4b3c-85f1-eab360587577)
+
 
 
 
