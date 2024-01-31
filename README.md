@@ -308,6 +308,19 @@ Create API with Swagger
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c1aaf6ed-a9ad-47cd-8362-eae682939ae7)
 
 
+### CORS(Cross Origin Resource Sharing)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fc3569d7-7fb2-4b33-9c22-5770d0f3e5c9)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3f5f5f12-7648-4b3a-8927-080d4773cbf7)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3d031fcc-452a-4684-8c76-863cb0462713)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b64a983e-00b6-4f91-84d1-557d0e22371e)
+
+
+
+
 
 
 
