@@ -291,6 +291,26 @@ Ennable cache setting and modified parameters (capacity and TTL for the cache...
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8da4abc8-390e-4a88-8090-c01f8bc18c5d)
 
+### Demo API SWAGGER
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9fa60200-a880-43f1-b8ba-4d2570f941db)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/95fe699b-a5bd-43de-81be-ff41db6143a3)
+
+Export API GAEWAY API as Swagger
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2205ee0d-3ff3-4f8c-93e0-c355923ea3da)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3b220055-2229-40fd-b395-dc28de3c35bd)
+
+Create API with Swagger
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c1aaf6ed-a9ad-47cd-8362-eae682939ae7)
+
+
+
+
+
 
 
 
