@@ -252,6 +252,36 @@ In Ressource change canaryLmbdabase to canaryLambdaModified
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1313fca5-5514-4b3c-85f1-eab360587577)
 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/d0f71b9b-efdb-4f9c-a04d-918977d8c6be)
+
+Eddit canary setting
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f70dc795-aac4-4daf-806b-280bf8768f66)
+
+Trafic 50% go to base and 50% to modified when we refresh url
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/00f6b12b-3215-4254-8a81-dae39c5cbead)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/43418196-465b-4cd7-989f-3e35b87a7cd8)
+
+If canary test ok, we PROMOTE the canary
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3d8fa953-ce89-458d-8833-4393e3dcdf51)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/6dbefa19-f239-4bb5-84b9-75e41660035d)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/de448c94-c67c-4538-85b9-1cea6fb75d3f)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
