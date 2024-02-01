@@ -318,6 +318,24 @@ Create API with Swagger
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b64a983e-00b6-4f91-84d1-557d0e22371e)
 
+### Create new lambda function
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7f05da2d-36ed-40bf-a63a-34e7b7742a7a)
+
+### Use visual studio code to invoke
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/820aea92-c062-4b8b-976b-633f6f47ab99)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7eac9583-f486-44b4-a462-60d5e63a91bd)
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/c4a5f1c5-a244-4133-b57f-2494bc1c0d25)
+
+Resquests are upload
+
+![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/9d5d2fd1-bb8a-4efd-b4eb-2ff7aa89a0a4)
+
+
+
 
 
 
