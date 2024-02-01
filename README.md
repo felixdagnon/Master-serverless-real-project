@@ -318,7 +318,7 @@ Create API with Swagger
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b64a983e-00b6-4f91-84d1-557d0e22371e)
 
-### Create new lambda function
+### Create new lambda function using external dependencies requests 
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7f05da2d-36ed-40bf-a63a-34e7b7742a7a)
 
@@ -332,7 +332,24 @@ Create API with Swagger
 
 Resquests are upload
 
-![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/9d5d2fd1-bb8a-4efd-b4eb-2ff7aa89a0a4)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/74a933f2-387c-4476-919f-ad6fd84701dd)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/03cbb76d-1d5e-4c45-b595-c1b584a9fe72)
+
+###Solving external dependencies requests using Cloud9
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7f8209b0-4a88-42a0-8465-ce8668a5f42f)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f47b5cef-a0c9-46c6-a2f4-3a2aa463cf02)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/757a06f5-32a1-43ed-b80d-7d7c4a4f16f4)
+
+
+
+
+
+
+
 
 
 
