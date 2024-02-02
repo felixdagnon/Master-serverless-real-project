@@ -429,7 +429,6 @@ Ec2 is running
 
 
 
-```json
 
 import json
 import boto3
@@ -479,8 +478,6 @@ def lambda_handler(event, context):
         'statusCode': 200,
         'body': json.dumps('Hello from Lambda!')
     }
-
-```
 
 
 
