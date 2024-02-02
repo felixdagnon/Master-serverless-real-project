@@ -398,6 +398,41 @@ Create lambda role, and permissions full access EC2 and SNS
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a23f3e5c-562a-4646-ab7b-55467c3daf66)
 
+# Configure Cloudwatch event rule
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fee7ad64-2b68-4f1d-ae7c-f1d9fe0a548d)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1e4aba9a-7ebe-4fa0-8fdf-578c8a3abbc7)
+
+# Create lambda ec2_check_tags for trigger 
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/533a23d0-b75a-4fcd-b153-0c1460baeecc)
+
+google boto3 ec2
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/956879b0-2262-4635-a71d-6983e05291d6)
+
+and import function describe_tags
+
+lambda finaly function
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0548512b-d7ba-48ba-aec2-4ef07432b9f0)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/d7a52ef9-a0c0-4280-941e-03e6aa03d4e3)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
+
+test event lambda
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f3f5b855-fc11-4c65-abb0-ff838a1fa7d2)
+
+Ec2 is running
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/031bb686-482f-467a-ad6a-3bfe327f3c46)
+
+
+
+
+
 
 
 
