@@ -27,12 +27,6 @@ Click the url to download letter
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fcdbedfa-97fc-42e5-a6d3-ad8e3bab455d)
 
-# Code any Boto3
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/853778b4-0a37-467b-971c-82ab92d86cc2)
-
-
-
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e5c7766c-1e47-44bf-874e-ab56a4fac9ef)
 
 ### Test the GET API in API gateway console
@@ -393,6 +387,19 @@ Test in lambda console
 Create a trigger API Gateway HTTP API
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e24fcd1-dcc0-40b9-ae94-b696827c2e23)
+
+# Code any Boto3
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/853778b4-0a37-467b-971c-82ab92d86cc2)
+
+Create lambda role, and permissions full access EC2 and SNS
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8fa2b65e-d38e-47be-80ed-dff234678140)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a23f3e5c-562a-4646-ab7b-55467c3daf66)
+
+
+
 
 
 
