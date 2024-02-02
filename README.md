@@ -418,8 +418,6 @@ lambda finaly function
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0548512b-d7ba-48ba-aec2-4ef07432b9f0)
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/d7a52ef9-a0c0-4280-941e-03e6aa03d4e3)
-
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
 
 test event lambda
