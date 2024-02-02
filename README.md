@@ -344,6 +344,16 @@ Resquests are upload
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/757a06f5-32a1-43ed-b80d-7d7c4a4f16f4)
 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a443e7a1-1da6-4846-89dd-c1a5a79543dd)
+
+### REINVENT 2020 lambda container image
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/88b102ba-32e5-4607-8d1a-7411c72d6566)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/72ccd1ca-b87f-461c-a3b0-9df3773641bb)
+
+
+
 
 
 
