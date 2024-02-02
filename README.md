@@ -352,6 +352,45 @@ Resquests are upload
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/72ccd1ca-b87f-461c-a3b0-9df3773641bb)
 
+in Cloud9 create lambda node container
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f76d2f77-896d-457e-9a25-2b097ee99c87)
+
+Using this blog post to create app.js
+
+https://aws.amazon.com/blogs/aws/new-for-aws-lambda-container-image-support/
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a13bbcde-d90b-4084-b95a-9604995bcc35)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/d06842a8-3fda-4839-a785-df8421a39a97)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/da565508-f261-415a-b5d0-0f64121497ae)
+
+Create Docker File and image
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/139474b4-608c-4af0-b2a7-784f2de2260a)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/6d0a2932-b20e-4652-9265-de0bc998ca2f)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/aaff8161-77dd-4357-a0c7-a6ff76ba2373)
+
+Test in lambda console
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/d178aae7-b8bb-47a5-afe5-562e0d3d91ed)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9a0736c6-5353-4a17-9d87-d523e4636908)
+
+Create a trigger API Gateway HTTP API
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e24fcd1-dcc0-40b9-ae94-b696827c2e23)
+
+
+
+
+
+
+
+
 
 
 
