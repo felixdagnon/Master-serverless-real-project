@@ -416,11 +416,11 @@ Test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy in
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/168d2e15-4b0e-4321-afae-d044f0a0ab22)
 
-###google boto3 ec2 and import function describe_tags
+### Google boto3 ec2 and import function describe_tags
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/956879b0-2262-4635-a71d-6983e05291d6)
 
-###lambda finaly function
+### lambda finaly function
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0548512b-d7ba-48ba-aec2-4ef07432b9f0)
 
