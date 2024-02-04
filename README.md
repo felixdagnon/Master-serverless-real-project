@@ -507,7 +507,14 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8367e834-e373-43ec-a8c2-b28ed325aa1c)
 
-#
+# Testing stage change EC2 Instance State-change Notification
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/467fe8ac-eb76-42ae-93a2-12b0f1db11a4)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fd287251-42cf-4d74-8876-b905bd6e9d7e)
+
+
+
 
 
 
