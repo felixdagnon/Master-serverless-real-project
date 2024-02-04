@@ -482,7 +482,12 @@ def lambda_handler(event, context):
     }
 
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/49547ab8-e914-4ba0-856f-2d71296e3254)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
+
+
+### Ec2 is running
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/031bb686-482f-467a-ad6a-3bfe327f3c46)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/794ecb84-7a27-4888-b77a-5fba8b771a80)
 
