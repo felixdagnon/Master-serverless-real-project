@@ -408,11 +408,17 @@ Create lambda role, and permissions full access EC2 and SNS
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/533a23d0-b75a-4fcd-b153-0c1460baeecc)
 
-google boto3 ec2
+Test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy instance ID and paste in detail 
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8353e3df-c241-4d3c-ab99-e5f4f94b7515)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/de18ea3e-2a13-494b-aaa8-929e1d3e4869)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/168d2e15-4b0e-4321-afae-d044f0a0ab22)
+
+###google boto3 ec2 and import function describe_tags
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/956879b0-2262-4635-a71d-6983e05291d6)
-
-and import function describe_tags
 
 lambda finaly function
 
@@ -420,18 +426,13 @@ lambda finaly function
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
 
-Test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy instance ID and paste in detail 
 
-![image](https://github.com/felix:dagnon/Master-serverless-real-project/assets/91665833/f3f5b855-fc11-4c65-abb0-ff838a1fa7d2)
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/168d2e15-4b0e-4321-afae-d044f0a0ab22)
-
-Ec2 is running
+### Ec2 is running
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/031bb686-482f-467a-ad6a-3bfe327f3c46)
 
 
-# lambda function ec2_check_tags
+### lambda function ec2_check_tags
 
 ---
 import json
@@ -503,7 +504,7 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/4f0b8a0a-9f56-4d94-bd5c-e41fb6b6abba)
 
-#  CopyEv EventBridge Rule ARN and paste in lambda code
+#  Copy EventBridge Rule ARN and paste in lambda code
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/bf19f544-617f-4ce3-92fd-58bd66dc2318)
 
