@@ -433,12 +433,12 @@ Ec2 is running
 
 ### lambda function ec2_check_tags
 
-
+---
 import json
 import boto3
 
-ec2 = boto3.client('ec2')
-sns = boto3.client('sns')
+ec2client = boto3.client('ec2')
+snsclient = boto3.client('sns')
 
 
 def lambda_handler(event, context):
@@ -447,7 +447,7 @@ def lambda_handler(event, context):
     ec2_instance_id=event['detail']['instance-id']
     
     # Put Logic
-    tag_response= ec2.describe_tags(
+    tag_response= ec2client.describe_tags(
     Filters=[
         {
             'Name': 'resource-id',
@@ -455,6 +455,8 @@ def lambda_handler(event, context):
         },
     ],
     )
+    
+   # print(tag_response)
 
     alltags=tag_response['Tags']
     
@@ -467,17 +469,20 @@ def lambda_handler(event, context):
             
     print(flag)    
     
-    # Decision Making
+      # Decision Making
     
     if flag=='STOP':
-        ec2.stop_instances(InstanceIds=[ec2_instance_id])
-        snsarn="arn:aws:sns:us-east-1:123456789123:email-SNS-topic"
+        # STOP 
+        ec2client.stop_instances(InstanceIds=[ec2_instance_id])
+        
+      # Send threating email
+        snsarn='arn:aws:sns:us-east-1:944020312758:SNSTopicEC2State:8a21932e-3088-4291-81e4-02072d4666bc'
         errormsg="EC2 "+ ec2_instance_id + " stopped"
-        snsresponse=sns.publish(TopicArn=snsarn,
+        snsresponse=snsclient.publish(TopicArn=snsarn,
                                 Message=errormsg,
-                                Subject="EC2 Violated Company Policy")
-    
-    
+                                Subject='EC2 Violated Company Policy!!! Manager will be notified!!!')
+
+
     return {
         'statusCode': 200,
         'body': json.dumps('Hello from Lambda!')
@@ -491,6 +496,7 @@ def lambda_handler(event, context):
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7999c7f9-33b9-44b0-b146-df8df2d73506)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/15eef3ea-0066-4cbe-8673-587b85d0a1a8)
+
 
 
 
