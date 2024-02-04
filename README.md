@@ -420,17 +420,9 @@ Test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy in
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/956879b0-2262-4635-a71d-6983e05291d6)
 
-lambda finaly function
+###lambda finaly function
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0548512b-d7ba-48ba-aec2-4ef07432b9f0)
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
-
-
-### Ec2 is running
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/031bb686-482f-467a-ad6a-3bfe327f3c46)
-
 
 ### lambda function ec2_check_tags
 
