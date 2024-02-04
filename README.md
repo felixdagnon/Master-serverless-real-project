@@ -428,10 +428,7 @@ Ec2 is running
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/031bb686-482f-467a-ad6a-3bfe327f3c46)
 
 
-
-
-
-### lambda function ec2_check_tags
+# lambda function ec2_check_tags
 
 ---
 import json
@@ -446,7 +443,7 @@ def lambda_handler(event, context):
     #print(event)
     ec2_instance_id=event['detail']['instance-id']
     
-    # Put Logic
+    ### Put Logic
     tag_response= ec2client.describe_tags(
     Filters=[
         {
@@ -456,7 +453,7 @@ def lambda_handler(event, context):
     ],
     )
     
-   # print(tag_response)
+   ### print(tag_response)
 
     alltags=tag_response['Tags']
     
@@ -475,7 +472,7 @@ def lambda_handler(event, context):
         # STOP 
         ec2client.stop_instances(InstanceIds=[ec2_instance_id])
         
-      # Send threating email
+      ### Send threating email
         snsarn='arn:aws:sns:us-east-1:944020312758:SNSTopicEC2State:8a21932e-3088-4291-81e4-02072d4666bc'
         errormsg="EC2 "+ ec2_instance_id + " stopped"
         snsresponse=snsclient.publish(TopicArn=snsarn,
