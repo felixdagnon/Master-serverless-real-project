@@ -420,8 +420,11 @@ lambda finaly function
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
 
-test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy instance ID and paste in detail 
+Test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy instance ID and paste in detail 
+
 ![image](https://github.com/felix:dagnon/Master-serverless-real-project/assets/91665833/f3f5b855-fc11-4c65-abb0-ff838a1fa7d2)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/168d2e15-4b0e-4321-afae-d044f0a0ab22)
 
 Ec2 is running
 
