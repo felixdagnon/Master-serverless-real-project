@@ -420,8 +420,8 @@ lambda finaly function
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b19c585f-e416-4e8b-8535-690bcc743044)
 
-test event lambda
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f3f5b855-fc11-4c65-abb0-ff838a1fa7d2)
+test event lambda form Cloudwatch EC2 Instance State-change Notificatio: copy instance ID and paste in detail 
+![image](https://github.com/felix:dagnon/Master-serverless-real-project/assets/91665833/f3f5b855-fc11-4c65-abb0-ff838a1fa7d2)
 
 Ec2 is running
 
@@ -493,6 +493,30 @@ def lambda_handler(event, context):
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7999c7f9-33b9-44b0-b146-df8df2d73506)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/15eef3ea-0066-4cbe-8673-587b85d0a1a8)
+
+# Create SNS Topic EventBridge to send email
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ee212c31-9517-4142-a27d-f2014ab0035c)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/4f0b8a0a-9f56-4d94-bd5c-e41fb6b6abba)
+
+#  CopyEv EventBridge Rule ARN and paste in lambda code
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/bf19f544-617f-4ce3-92fd-58bd66dc2318)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8367e834-e373-43ec-a8c2-b28ed325aa1c)
+
+#
+
+
+
+
+
+
+
+
+
+
 
 
 
