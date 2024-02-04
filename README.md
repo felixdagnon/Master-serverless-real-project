@@ -495,19 +495,19 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/15eef3ea-0066-4cbe-8673-587b85d0a1a8)
 
-# Create SNS Topic EventBridge to send email
+### Create SNS Topic EventBridge to send email
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ee212c31-9517-4142-a27d-f2014ab0035c)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/4f0b8a0a-9f56-4d94-bd5c-e41fb6b6abba)
 
-#  Copy EventBridge Rule ARN and paste in lambda code
+###  Copy EventBridge Rule ARN and paste in lambda code
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/bf19f544-617f-4ce3-92fd-58bd66dc2318)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8367e834-e373-43ec-a8c2-b28ed325aa1c)
 
-# Testing stage change EC2 Instance State-change Notification
+### Testing stage change EC2 Instance State-change Notification
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/467fe8ac-eb76-42ae-93a2-12b0f1db11a4)
 
