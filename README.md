@@ -527,13 +527,31 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c38c3016-6768-4269-bcc2-2f064e1f588e)
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/88308951-c5a6-4533-9585-b4996c4331b9)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/88308951-c5a6-4533-9585-b4996c4331b9
+
+### Create sns topic and subscription by lambda and publish message
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f606b0db-4ea6-4646-b0a4-2dae1f116b2f)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5c9179c2-4457-485c-ae64-28b6dae36adf)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/04ec46b9-01e3-4f87-8c12-90170acc2675)
+
+### Create sns topic and subscription y email and publish message
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9eeb2c07-dd0f-4e2b-8998-d4f3322fc7ba)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b3e33100-e63c-44fb-aa94-6acad3d39424)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f457eebf-5f3c-4f95-9bef-b519e0e3eb45)
+
+
+
+
+
+
+
+
 
 
 
