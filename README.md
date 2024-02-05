@@ -513,9 +513,29 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fd287251-42cf-4d74-8876-b905bd6e9d7e)
 
-# Email notification
+### Email notification
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5bf010d-367b-42d0-80c9-2428146cfe01)
+
+# SNS Message Filtering
+
+### Create sns topic and subscription
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0201eb70-a90a-4632-932b-dfb0697682a7)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a814c376-45bd-4025-94c4-10f42188d265)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c38c3016-6768-4269-bcc2-2f064e1f588e)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/88308951-c5a6-4533-9585-b4996c4331b9)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f606b0db-4ea6-4646-b0a4-2dae1f116b2f)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5c9179c2-4457-485c-ae64-28b6dae36adf)
+
+
+
+
 
 
 
