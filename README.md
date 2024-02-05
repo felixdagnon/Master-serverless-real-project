@@ -388,7 +388,7 @@ Create a trigger API Gateway HTTP API
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e24fcd1-dcc0-40b9-ae94-b696827c2e23)
 
-# Code any Boto3
+# EC2 instance state change alerts Lambda , Cloud Event & SNS: Code Boto3
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/853778b4-0a37-467b-971c-82ab92d86cc2)
 
