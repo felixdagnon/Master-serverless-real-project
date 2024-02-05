@@ -515,8 +515,7 @@ def lambda_handler(event, context):
 
 # Email notification
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/98fc5316-5a94-4472-96f3-c1a56f235a44)
-
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5bf010d-367b-42d0-80c9-2428146cfe01)
 
 
 
