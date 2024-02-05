@@ -533,6 +533,8 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5c9179c2-4457-485c-ae64-28b6dae36adf)
 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/04ec46b9-01e3-4f87-8c12-90170acc2675)
+
 
 
 
