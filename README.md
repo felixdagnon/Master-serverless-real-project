@@ -513,6 +513,11 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fd287251-42cf-4d74-8876-b905bd6e9d7e)
 
+# Email notification
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/98fc5316-5a94-4472-96f3-c1a56f235a44)
+
+
 
 
 
