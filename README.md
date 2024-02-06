@@ -558,9 +558,14 @@ def lambda_handler(event, context):
 # Custom EventBridge and EventBus and rules filtering 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/52278f5b-9d24-4543-ad13-9f7b0efca851)
 
-### Create lambda
+### Create two lambda functions publishtoEvenBridge and readEventBridge and the same test event
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/82166e25-3038-4b93-a3f5-795f5f53d4d2)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f60ae215-296f-467c-b99f-8df941d6634a)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3495531c-95f7-4ff8-8195-8ce56d64e6a5)
+
 
 ### Create lambda role
 
@@ -585,6 +590,19 @@ EventBridge and create rule on maried attribut in test event
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/43986038-8810-4337-9af1-8c384e060e95)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c85c92cf-2201-4230-8910-8198ee78b4f2)
+
+Testing lambda functions
+
+Rule satisfied should invoke the target lambda
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/98f19b7d-1d78-432d-9284-7d2229646454)
+
+Target lambda 
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5167d001-39d1-4a14-ae7e-bdfdcd49004c)
+
+
+
 
 
 
