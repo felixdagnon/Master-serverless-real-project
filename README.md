@@ -573,7 +573,10 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0ea8d323-d63c-4c19-8f76-e68fcaab1519)
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/babed83b-5140-46db-9d24-b7f8785a8641)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ba56efed-aa44-491c-aa71-36af823bb6c9)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/59d9e0af-8bc9-4e2d-9665-bb72a3aaa511)
+
 
 ### create Custom EventBridge and EventBus
 
