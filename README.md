@@ -567,16 +567,9 @@ def lambda_handler(event, context):
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3495531c-95f7-4ff8-8195-8ce56d64e6a5)
 
 
-### Create lambda role
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a92fb622-ffbc-4b25-ab0b-ee4ae3508c80)
+### Create lambda role for two lambda functions publishtoEvenBridge and readEventBridge
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0ea8d323-d63c-4c19-8f76-e68fcaab1519)
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/ba56efed-aa44-491c-aa71-36af823bb6c9)
-
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/59d9e0af-8bc9-4e2d-9665-bb72a3aaa511)
-
 
 ### create Custom EventBridge and EventBus
 
