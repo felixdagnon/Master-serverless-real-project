@@ -605,6 +605,8 @@ Target lambda
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/eda0cbcd-bf45-4700-ace9-18fbb6f2aae1)
 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/bcabcaf6-60d3-4451-bb1e-9b83f6da2d57)
+
 
 
 
