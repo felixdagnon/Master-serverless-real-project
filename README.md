@@ -555,8 +555,33 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7977614d-c38d-4d87-937c-2a216a37ebe3)
 
+# Custom EventBridge and EventBus and rules filtering 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/52278f5b-9d24-4543-ad13-9f7b0efca851)
 
-# Custom EventBridge and EventBus and ruleServerless services
+### Create lambda
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/82166e25-3038-4b93-a3f5-795f5f53d4d2)
+
+### Create lambda role
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a92fb622-ffbc-4b25-ab0b-ee4ae3508c80)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0ea8d323-d63c-4c19-8f76-e68fcaab1519)
+
+### create Custom EventBridge and EventBus
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1b24c5a3-142f-4248-b1d3-fc749b164ca0)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/758ecdad-4d34-40df-ae23-8913ccf1b609)
+
+
+
+
+
+
+
+
+
 
 
 
