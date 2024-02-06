@@ -568,11 +568,29 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/0ea8d323-d63c-4c19-8f76-e68fcaab1519)
 
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/babed83b-5140-46db-9d24-b7f8785a8641)
+
 ### create Custom EventBridge and EventBus
+
+eventBus
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1b24c5a3-142f-4248-b1d3-fc749b164ca0)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/758ecdad-4d34-40df-ae23-8913ccf1b609)
+
+EventBridge and create rule on maried attribut in test event
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/155afd19-70ce-47e8-9f66-6b496d08475f)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/43986038-8810-4337-9af1-8c384e060e95)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c85c92cf-2201-4230-8910-8198ee78b4f2)
+
+
+
+
+
+
 
 
 
