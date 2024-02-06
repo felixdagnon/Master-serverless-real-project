@@ -597,6 +597,16 @@ Target lambda
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5167d001-39d1-4a14-ae7e-bdfdcd49004c)
 
+# eventBridge VS SQS VS SNS
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a640d427-5a1e-4d48-a1ec-c77947d13e16)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/3939c417-cc31-4b05-90e2-ac459acbae5b)
+
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/eda0cbcd-bf45-4700-ace9-18fbb6f2aae1)
+
+
+
 
 
 
