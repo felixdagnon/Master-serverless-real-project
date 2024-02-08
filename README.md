@@ -515,7 +515,8 @@ def lambda_handler(event, context):
 
 ### Email notification
 
-![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5bf010d-367b-42d0-80c9-2428146cfe01)
+![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/67328c36-f8ae-49b2-9449-e9ac69d05851)
+
 
 # SNS Message Filtering
 
