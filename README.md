@@ -90,7 +90,7 @@ For example add '?nameofcountry=England' at the end of url and test ok
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2d0fec75-cfd5-4cb4-bbcf-0a7402f7d70c)
 
 
-### Demo AWs cross account in the API Gateway
+# Demo AWs cross account in the API Gateway
 
 Lambda from second account
 
@@ -127,7 +127,7 @@ Test ok from first account (API Gateway account)
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5f49e9cd-df8b-4a75-98ca-e3f0f07c16f1)
 
 
-### Lambda Version and Alias for API Traffic Splitting for Blue Green deployment
+# Lambda Version and Alias for API Traffic Splitting for Blue Green deployment
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9021ec42-b7e2-42db-b96d-ebf2e240f340)
 
@@ -178,7 +178,7 @@ Testing Alias trafic shifting version 1 and version 4
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9e0fb25d-61a0-457c-b80a-ad41cca536a1)
 
-###  API Traffic Splitting using Lambda Version and Alias for for Blue Green deployment
+# API Traffic Splitting using Lambda Version and Alias for for Blue Green deployment
 
 Create API aliasTest resource and GET methode
 
@@ -222,7 +222,7 @@ Refresh
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5769553-6527-48ea-90ad-4315daed1c36)
 
-### Canary deplyment of API
+# Canary deplyment of API
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e9c0106-69c6-4ddb-a8ce-feb30e36d137)
 
@@ -295,7 +295,7 @@ Ennable cache setting and modified parameters (capacity and TTL for the cache...
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8da4abc8-390e-4a88-8090-c01f8bc18c5d)
 
-### Demo API SWAGGER
+# Demo API SWAGGER
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9fa60200-a880-43f1-b8ba-4d2570f941db)
 
@@ -312,7 +312,7 @@ Create API with Swagger
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c1aaf6ed-a9ad-47cd-8362-eae682939ae7)
 
 
-### CORS(Cross Origin Resource Sharing)
+# CORS(Cross Origin Resource Sharing)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fc3569d7-7fb2-4b33-9c22-5770d0f3e5c9)
 
@@ -322,7 +322,7 @@ Create API with Swagger
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b64a983e-00b6-4f91-84d1-557d0e22371e)
 
-### Create new lambda function using external dependencies requests 
+# Create new lambda function using external dependencies requests 
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7f05da2d-36ed-40bf-a63a-34e7b7742a7a)
 
@@ -340,7 +340,7 @@ Resquests are upload
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/03cbb76d-1d5e-4c45-b595-c1b584a9fe72)
 
-###Solving external dependencies requests using Cloud9
+### Solving external dependencies requests using Cloud9
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7f8209b0-4a88-42a0-8465-ce8668a5f42f)
 
