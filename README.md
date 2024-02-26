@@ -5,8 +5,7 @@ Master Serverless real project
 
 # Lab Overview
 
-
-# 1- Testing lambda function, API, API Gateway, POSTMAN
+# 1-Testing:lambda function, API, API Gateway and POSTMAN
 
 ### Creating API with Lambda integration
 
@@ -62,7 +61,7 @@ Click the url to download letter
 
 ### APi Gateway query parameters
 
-Vhere we can send input parameter in the get methode for example region
+where we can send input parameter in the get methode for example region
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7ba55def-dfde-46ec-9fa0-7d229261addf)
 
@@ -91,7 +90,7 @@ For example add 'nameofcountry=England' at the end of url and test ok
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2d0fec75-cfd5-4cb4-bbcf-0a7402f7d70c)
 
 
-# Demo AWs cross account in the API Gateway
+# 2-Demo AWs cross account in the API Gateway
 
 Lambda from second account
 
@@ -128,7 +127,7 @@ Test ok from first account (API Gateway account)
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5f49e9cd-df8b-4a75-98ca-e3f0f07c16f1)
 
 
-# Lambda Version and Alias for API Traffic Splitting for Blue Green deployment
+# 3-Lambda Version and Alias for API Traffic Splitting for Blue Green deployment
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9021ec42-b7e2-42db-b96d-ebf2e240f340)
 
@@ -179,7 +178,7 @@ Testing Alias trafic shifting version 1 and version 4
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9e0fb25d-61a0-457c-b80a-ad41cca536a1)
 
-# API Traffic Splitting using Lambda Version and Alias for for Blue Green deployment
+# 4-API Traffic Splitting using Lambda Version and Alias for for Blue Green deployment
 
 Create API aliasTest resource and GET methode
 
@@ -223,7 +222,7 @@ Refresh
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5769553-6527-48ea-90ad-4315daed1c36)
 
-# Canary deployment of API
+# 5-Canary deployment of API
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e9c0106-69c6-4ddb-a8ce-feb30e36d137)
 
@@ -277,7 +276,7 @@ If canary test ok, we PROMOTE the canary
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/de448c94-c67c-4538-85b9-1cea6fb75d3f)
 
-# API Endpoint and API caching
+# 6-API Endpoint and API caching
 
 ###  API Endpoint
 
@@ -297,7 +296,7 @@ Enable cache setting and modified parameters (capacity and TTL for the cache...)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8da4abc8-390e-4a88-8090-c01f8bc18c5d)
 
-# Demo API SWAGGER
+# 7-Demo API SWAGGER
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/9fa60200-a880-43f1-b8ba-4d2570f941db)
 
@@ -314,7 +313,7 @@ Create API with Swagger
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c1aaf6ed-a9ad-47cd-8362-eae682939ae7)
 
 
-# CORS(Cross Origin Resource Sharing)
+# 8-CORS(Cross Origin Resource Sharing)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fc3569d7-7fb2-4b33-9c22-5770d0f3e5c9)
 
@@ -324,7 +323,7 @@ Create API with Swagger
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/b64a983e-00b6-4f91-84d1-557d0e22371e)
 
-# Create new lambda function using external dependencies requests 
+# 9-Create new lambda function using external dependencies requests 
 
 ![image](https://github.com/felixdagnon/Serverless-project/assets/91665833/7f05da2d-36ed-40bf-a63a-34e7b7742a7a)
 
@@ -352,7 +351,7 @@ Resquests are upload
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a443e7a1-1da6-4846-89dd-c1a5a79543dd)
 
-# REINVENT 2020 lambda container image
+# 10-REINVENT 2020 lambda container image
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/88b102ba-32e5-4607-8d1a-7411c72d6566)
 
@@ -390,7 +389,7 @@ Create a trigger API Gateway HTTP API
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e24fcd1-dcc0-40b9-ae94-b696827c2e23)
 
-# EC2 instance state change alerts Lambda , Cloud Event & SNS: Code Boto3
+# 11-EC2 instance state change alerts Lambda , Cloud Event & SNS: Code Boto3
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/853778b4-0a37-467b-971c-82ab92d86cc2)
 
@@ -400,13 +399,13 @@ Create lambda role, and permissions full access EC2 and SNS
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a23f3e5c-562a-4646-ab7b-55467c3daf66)
 
-# Configure Cloudwatch event rule
+# 12-Configure Cloudwatch event rule
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/fee7ad64-2b68-4f1d-ae7c-f1d9fe0a548d)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/1e4aba9a-7ebe-4fa0-8fdf-578c8a3abbc7)
 
-# Create lambda ec2_check_tags for trigger 
+# 13-Create lambda ec2_check_tags for trigger 
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/533a23d0-b75a-4fcd-b153-0c1460baeecc)
 
@@ -520,7 +519,7 @@ def lambda_handler(event, context):
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/67328c36-f8ae-49b2-9449-e9ac69d05851)
 
 
-# SNS Message Filtering
+# 14-SNS Message Filtering
 
 ### Create sns topic and subscription
 
@@ -548,7 +547,7 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f457eebf-5f3c-4f95-9bef-b519e0e3eb45)
 
-# EventBridge and EventBus Serverless services
+# 15-EventBridge and EventBus Serverless services
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/8048aac9-7b22-4f85-a857-f16197722e2b)
 
@@ -558,7 +557,7 @@ def lambda_handler(event, context):
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7977614d-c38d-4d87-937c-2a216a37ebe3)
 
-# Custom EventBridge and EventBus and rules filtering 
+# 16-Custom EventBridge and EventBus and rules filtering 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/52278f5b-9d24-4543-ad13-9f7b0efca851)
 
 ### Create two lambda functions publishtoEvenBridge and readEventBridge and the same test event
@@ -600,7 +599,7 @@ Target lambda
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/5167d001-39d1-4a14-ae7e-bdfdcd49004c)
 
-# eventBridge VS SQS VS SNS
+# 17-eventBridge VS SQS VS SNS
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a640d427-5a1e-4d48-a1ec-c77947d13e16)
 
