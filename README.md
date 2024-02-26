@@ -222,7 +222,7 @@ Refresh
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/c5769553-6527-48ea-90ad-4315daed1c36)
 
-# Canary deplyment of API
+# Canary deployment of API
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/7e9c0106-69c6-4ddb-a8ce-feb30e36d137)
 
@@ -258,7 +258,7 @@ In Ressource change canaryLmbdabase to canaryLambdaModified
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/d0f71b9b-efdb-4f9c-a04d-918977d8c6be)
 
-Eddit canary setting
+Edit canary setting
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/f70dc795-aac4-4daf-806b-280bf8768f66)
 
@@ -276,6 +276,7 @@ If canary test ok, we PROMOTE the canary
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/de448c94-c67c-4538-85b9-1cea6fb75d3f)
 
+# API Endpoint and API caching
 
 ###  API Endpoint
 
@@ -289,7 +290,7 @@ If canary test ok, we PROMOTE the canary
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/252ea745-a115-4cb1-b82f-a925bfd412c1)
 
-Ennable cache setting and modified parameters (capacity and TTL for the cache...)
+Enable cache setting and modified parameters (capacity and TTL for the cache...)
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/4ab9d2c9-09fb-4961-a960-90248269f077)
 
@@ -350,7 +351,7 @@ Resquests are upload
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/a443e7a1-1da6-4846-89dd-c1a5a79543dd)
 
-### REINVENT 2020 lambda container image
+# REINVENT 2020 lambda container image
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/88b102ba-32e5-4607-8d1a-7411c72d6566)
 
