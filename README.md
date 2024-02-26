@@ -3,11 +3,10 @@ Master Serverless real project
 
 # LevelUp! Lab for Serverless
 
-## Lab Overview
+# Lab Overview
 
-## Setup
 
-# lambda, API, API Gateway, POSTMAN
+# 1- Testing lambda function, API, API Gateway, POSTMAN
 
 ### Creating API with Lambda integration
 
@@ -87,7 +86,7 @@ Create query parameters
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/19c458f7-a7a5-47c6-b1b2-ed4fd3932c77)
 
-For example add '?nameofcountry=England' at the end of url and test ok
+For example add 'nameofcountry=England' at the end of url and test ok
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2d0fec75-cfd5-4cb4-bbcf-0a7402f7d70c)
 
