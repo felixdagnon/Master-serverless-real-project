@@ -7,6 +7,8 @@ Master Serverless real project
 
 ## Setup
 
+# lambda, API, API Gateway, POSTMAN
+
 ### Creating API with Lambda integration
 
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/e2ab0230-f6f2-4121-a49b-1834a159fddd)
