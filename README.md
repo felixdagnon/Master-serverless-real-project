@@ -5,7 +5,7 @@ Master Serverless real project
 
 # Lab Overview
 
-# 1-Testing:lambda function, API, API Gateway and POSTMAN
+# 1-Testing: lambda function, Get API, Post API, API Gateway and POSTMAN
 
 ### Creating API with Lambda integration
 
