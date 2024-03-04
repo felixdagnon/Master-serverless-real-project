@@ -90,7 +90,7 @@ For example add 'nameofcountry=England' at the end of url and test ok
 ![image](https://github.com/felixdagnon/Master-serverless-real-project/assets/91665833/2d0fec75-cfd5-4cb4-bbcf-0a7402f7d70c)
 
 
-# 2-Demo AWs cross account in the API Gateway
+# 2-Demo AWS cross account in the API Gateway
 
 Lambda from second account
 
